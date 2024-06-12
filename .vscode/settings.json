@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+
+    ],
+    // "rust-analyzer.linkedProjects": [
+    //     "{absolute_path}/Cargo.toml"
+    // ]
+}
